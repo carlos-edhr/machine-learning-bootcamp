@@ -1,0 +1,4 @@
+name: ENVNAME
+channels:
+  - defaults
+prefix: /home/carlos/Documents/dev/machine-learning/machine-learning-bootcamp/ENVNAME
